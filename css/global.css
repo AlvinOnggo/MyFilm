@@ -1,0 +1,18 @@
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* This is the background of the scrollbar */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* This is the actual scroll handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Change the scroll handle color when hovering */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}

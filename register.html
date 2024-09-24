@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Register</title>
+    <link rel="stylesheet" href="./css/register.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+    />
+  </head>
+  <body>
+    <div class="register-container">
+      <form action="index.html">
+        <div class="logo-image">
+          <img src="./assets/logo.png" alt="">
+        </div>
+        <div id="name-box" class="input-box">
+          <input id="name" type="text"/>
+          <label for="name" id="label-name">Username</label>
+          <i class="fa fa-user fa-sm"></i>
+        </div>
+        <div id="error-name" class="error-validation"></div>
+        <br />
+
+        <div id="password-box" class="input-box">
+          <input id="password" type="password" />
+          <label for="password" id="label-password">Password</label>
+          <i id="toggle-password" class="fa fa-eye fa-sm"></i>
+        </div>
+        <div id="error-password" class="error-validation"></div>
+        <br />
+
+        <div id="confirm-password-box" class="input-box">
+          <input id="confirm-password" type="password" />
+          <label for="confirm-password" id="label-confirmPassword">Confirm Password</label>
+          <i id="toggle-confirmPassword" class="fa fa-eye fa-sm"></i>
+        </div>
+        <div id="error-confirm-password" class="error-validation"></div>
+
+        <div class="radio-wrapper">
+            <label for="radio-button" id="label-gender">Gender</label>
+            <div class="radio-button">
+              <input type="radio" id="male" name="gender" value="male" />
+              <label for="male">Male</label><br />
+              <input type="radio" id="female" name="gender" value="female" />
+              <label for="female">Female</label>
+            </div>
+            <div class="error-validation" id="error-gender"></div>
+        </div>
+
+        <div class="policy">
+            <input type="checkbox" id="policy" name="policy" value="policy" />
+            <label for="policy" id="label-policy">I agree to the <a href="">Terms of Service</a> and <a href="">Privacy Policy</a></label>
+        </div>
+        <div class="error-validation" id="error-policy"></div>
+
+        <button onclick="return registerValidation()" type="submit">
+          Register
+        </button>
+
+        <p>Already have an account? <a href="index.html">Log in.</a></p>
+        
+      </form>
+    </div>
+  </body>
+  <script src="./js/register.js"></script>
+</html>

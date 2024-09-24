@@ -1,0 +1,151 @@
+{
+  "filmData": {
+    "recommendation": [
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyNTM3MDQ2NV5BMl5BanBnXkFtZTgwMDI5Nzk1NDM@._V1_SY500_CR0,0,336,500_AL_.jpg"
+      },
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQxMDE5NDg0NV5BMl5BanBnXkFtZTgwNTA5MDE2NDM@._V1_SY500_CR0,0,337,500_AL_.jpg"
+      },
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYyMjAyMTI5NF5BMl5BanBnXkFtZTgwOTAxMTQ3NDM@._V1_SY500_CR0,0,337,500_AL_.jpg"
+      },
+      {
+        "image":"https://images-na.ssl-images-amazon.com/images/M/MV5BZDdjOWMwNjYtNWE3Zi00Y2JjLTgzODItNTg1YjNjM2U3ZWMyXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY500_CR0,0,337,500_AL_.jpg"
+      },
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzczMjUwMzk0M15BMl5BanBnXkFtZTgwNjY4OTQ3NDM@._V1_SY500_CR0,0,337,500_AL_.jpg"
+      },
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjJlMzU2YmMtYjlkOS00ZjMzLWFkOWMtZGZhY2IzZTc3Njk1XkEyXkFqcGdeQXVyNTQ1MTYzNzY@._V1_SY300_SX600_AL_.jpg"
+      },
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWQ3OTRjNTUtM2JiNC00NTZjLTg4YjAtMWI5NmZhOGJlZDA5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY500_CR0,0,315,500_AL_.jpg"
+      },
+      {
+        "image":"https://images-na.ssl-images-amazon.com/images/M/MV5BZDdkN2ZmNDktOGQyNC00NzgyLWFiNmItMDMyZDRmYWFjNzQ1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY500_CR0,0,337,500_AL_.jpg"
+      },
+      {
+        "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMmYzODU2ZDQtODVkZi00MjM3LTk0ZjAtZmUxNjc3N2IwYjVjXkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_SY500_CR0,0,367,500_AL_.jpg"
+      }
+    ],
+    "anime": [
+      {
+        "image": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg"
+      },
+      {
+        "image": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg"
+      },
+      {
+        "image":"https://cdn.myanimelist.net/images/anime/1935/127974.jpg"
+      },
+      {
+        "image":"https://cdn.myanimelist.net/images/anime/1160/122627.jpg"
+      },
+      {
+        "image":"https://cdn.myanimelist.net/images/anime/1517/100633.jpg"
+      },
+      {
+        "image":"https://cdn.myanimelist.net/images/anime/1708/138033.jpg"
+      },
+      {
+        "image":"https://cdn.myanimelist.net/images/anime/1088/135089.jpg"
+      },
+      {
+        "image":"https://cdn.myanimelist.net/images/anime/3/88469.jpg"
+      },
+      {
+        "image":"https://cdn.myanimelist.net/images/anime/1122/96435.jpg"
+      },
+      {
+        "image":"https://cdn.myanimelist.net/images/anime/1299/110774.jpg"
+      }
+    ],
+    "marvel": [
+      {
+        "image": "https://cdn.discordapp.com/attachments/1087386228355256410/1246755652768894986/thorloveandthunder_lob_crd_04.png?ex=665edcaf&is=665d8b2f&hm=6ea89456662f7cec74efe6503f19088e910e720024f9901b89d2a2f4a4524b68&",
+        "title": "https://cdn.discordapp.com/attachments/1087386228355256410/1247165536635195393/image-removebg-preview_1.png?ex=665f08eb&is=665db76b&hm=544a983f22081db2549b49a48f8ec87cf490dba08e0ebda8afe050f669baa464&",
+        "imageCard": "https://cdn.discordapp.com/attachments/1087386228355256410/1247164002577158294/clipboard.png?ex=665f077d&is=665db5fd&hm=a34be7f63dbd4cb29f82325bb6dd3e7e9961a93db164b3df81da180dded33c9b&",
+        "year": "2022",
+        "type": "Movie",
+        "genre": "Action",
+        "country": "America",
+        "age": "13+",
+        "synopsis": "Thor enlists the help of Valkyrie, Korg and ex-girlfriend Jane Foster to fight Gorr the God Butcher, who intends to make the gods extinct."
+      }
+    ],
+    "disney": [{}],
+    "movie": [
+      {
+        "imageCard": "./assets/film-data/1.jpg",
+        "title": "./assets/film-data/2.png",
+        "image": "./assets/film-data/3.jpg",
+        "year": "1994",
+        "type": "Movie",
+        "genre": "Crime",
+        "country": "America",
+        "age": "21+",
+        "synopsis": "In the criminal underworld, a series of incidents ultimately link the lives of two Los Angeles mobsters, a gangster's wife, a boxer and two petty criminals."
+      },
+      {
+        "imageCard": "./assets/film-data/4.jpg",
+        "title": "./assets/film-data/5.png",
+        "image": "./assets/film-data/6.jpg",
+        "year": "2020",
+        "type": "Movie",
+        "genre": "Action",
+        "country": "America",
+        "age": "18+",
+        "synopsis": "The protagonist navigates the twilight world of international espionage on a mission that leads to something beyond the flow of time."
+      },
+      {
+        "imageCard": "./assets/film-data/7.jpg",
+        "title": "./assets/film-data/8.png",
+        "image": "./assets/film-data/9.jpg",
+        "year": "1980",
+        "type": "Movie",
+        "genre": "Horror",
+        "country": "America",
+        "age": "18+",
+        "synopsis": "Jack and his family move to a remote hotel that holds a terrible past."
+      },
+      {
+        "imageCard": "./assets/film-data/10.jpg",
+        "title": "./assets/film-data/11.png",
+        "image": "./assets/film-data/12.jpg",
+        "year": "2002",
+        "type": "Movie",
+        "genre": "Crime",
+        "country": "America",
+        "age": "18+",
+        "synopsis": "Frank Abagnale Jr. had fraudulently posed as a pilot, doctor and lawyer, and managed to cash millions of dollars worth of fake checks."
+      },
+      {
+        "imageCard": "./assets/film-data/13.jpg",
+        "title": "./assets/film-data/14.png",
+        "image": "./assets/film-data/18.jpg",
+        "year": "1996",
+        "type": "Movie",
+        "genre": "Horror",
+        "country": "America",
+        "age": "18+",
+        "synopsis": "A year after Sidney's mother was killed, various murders began to occur."
+      },
+      {
+        "imageCard": "./assets/film-data/16.jpg",
+        "title": "./assets/film-data/17.png",
+        "image": "./assets/film-data/15.jpg",
+        "year": "1999",
+        "type": "Movie",
+        "genre": "Mystery",
+        "country": "America",
+        "age": "18+",
+        "synopsis": "A doctor in New York City, who is married to the head of a museum. Wandering on a terrible and dangerous night."
+      }
+    ],
+    "series": [{}],
+    "pixar": [{}],
+    "starWars": [{}],
+    "nationalGeographic": [{}]
+  }
+}

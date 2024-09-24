@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Suzume</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+    />
+    <link rel="stylesheet" href="./css/nonton.css" />
+    <link rel="stylesheet" href="./css/global.css">
+  </head>
+  <body>
+    <div class="sidebar">
+      <div class="list-item">
+        <ul>
+          <li>
+            <a href="./profile.html">
+              <i class="fa-solid fa-user"></i>
+              <span class="link-text">My Profile</span>
+            </a>
+          </li>
+          <li>
+            <a href="home.html">
+              <i class="fa fa-home"></i>
+              <span class="link-text">Home</span>
+            </a>
+          </li>
+          <li>
+            <a href="search.html">
+              <i class="fa fa-search"></i>
+              <span class="link-text">Search</span>
+            </a>
+          </li>
+          <li>
+            <a href="">
+              <i class="fa-solid fa-clapperboard"></i>
+              <span class="link-text">Movies</span>
+            </a>
+          </li>
+          <li>
+            <a href="">
+              <i class="fa-solid fa-tv"></i>
+              <span class="link-text">Series</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="banner-content"></div>
+    <div class="body-content">
+      <div class="main-content">
+        <div class="content suzume-title active">
+          <img src="./assets/suzume-title.png" alt="" class="movie-title" />
+          <h4>
+            <span>2023</span><span>12+</span><span>2h 14min</span
+            ><span>Romance</span>
+          </h4>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas
+            quam eius quisquam non cumque ut provident praesentium eos commodi
+            officiis est ab consequuntur, aperiam, assumenda, cupiditate
+            nesciunt incidunt veritatis dolorum.
+          </p>
+          <div class="button">
+            <a href="player.html"><i class="fa fa-play"></i>Watch</a>
+            <a href=""><i class="fa fa-plus"></i></a>
+          </div>
+        </div>
+      </div>
+      <div class="tab-control">
+        <a href="#slider">More Like This</a>
+        <a href="#trailer">Trailers & More</a>
+      </div>
+      <div class="scroll-container">
+        <i class="fa-solid fa-chevron-left scroll-left" id="scroll-left"></i>
+        <div class="card-container more-film"></div>
+        <i class="fa-solid fa-chevron-right scroll-right" id="scroll-right"></i>
+      </div>
+      <div class="trailer" id="trailer">
+        <h1>Trailers & More</h1>
+        <a href="player.html"><img src="./assets/slide1.jpg" alt="" /></a>
+      </div>
+      <footer>
+        <div class="company">
+          <h3>Company</h3>
+          <p>Supported Devices</p>
+          <p>Interest based Ads</p>
+        </div>
+
+        <div class="language">
+          <h3>View Website in</h3>
+          <div class="wrapper">
+            <i class="fa fa-check"></i>
+            <div class="wrapper-lang">
+              <p>English</p>
+              <p>Indonesian</p>
+            </div>
+          </div>
+        </div>
+        <div class="help">
+          <h3>Need Help?</h3>
+          <p>Help</p>
+          <p>Feedback</p>
+        </div>
+        <div class="social">
+          <h3>Connect with Us</h3>
+          <a href="https://www.facebook.com"
+            ><i class="fa-brands fa-2xl fa-facebook"></i
+          ></a>
+          <a href="https://www.twitter.com"
+            ><i class="fa-brands fa-2xl fa-twitter"></i
+          ></a>
+          <a href="https://www.instagram.com"
+            ><i class="fa-brands fa-2xl fa-instagram"></i
+          ></a>
+          <a href="https://www.youtube.com">
+            <i class="fa-brands fa-2xl fa-youtube"></i
+          ></a>
+        </div>
+      </footer>
+    </div>
+  </body>
+  <script src="./js/nontonMovie.js"></script>
+</html>
